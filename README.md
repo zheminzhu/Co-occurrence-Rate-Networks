@@ -1,11 +1,9 @@
 # Co-occurrence Rate Networks
 
-Co-occurrence rate networks for sequence labeling
-
-*This verision is only for verifying the experimental results in the submitted paper. A more mature version will come soon. All rights of the datasets belong to their original authors. *
+*This verision is only for verifying the experimental results in the submitted paper. A more mature version will come soon. All rights of the datasets belong to their original authors.*
 
 ### Introduction
-Co-occurrence rate networks are for sequence labelling tasks, such as named entity recognition, part-of-speech tagging … The applications of this software are similar to CRF (http://crfpp.googlecode.com/svn/trunk/doc/index.html). But CRN can be trained much faster and obtain better or very competitive results.
+Co-occurrence rate networks are for sequence labeling tasks, such as named entity recognition, part-of-speech tagging … The applications of this software are similar to CRFs (http://crfpp.googlecode.com/svn/trunk/doc/index.html). But CRN can be trained much faster and obtain better or very competitive results.
 
 ### System and Compiler
 The Ubuntu 12.04 and gcc 4.7.3 are used for compiling the software. We do not know  if this works on other systems. If your gcc is old version, you can update it using these steps to gcc 4.7.3:
