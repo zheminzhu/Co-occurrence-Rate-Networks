@@ -33,6 +33,3 @@ Training and decoding data has the same format, see examples in the ./data.
 ### Template Format
 See example in the ./data for the template format.
 
-### Contact
-1.	Zhemin Zhu (z.zhu@utwente.nl, zhuzhemin@gmail.com)
-2.	Djoerd Hiemstra (d.hiemstra@utwente.nl)
