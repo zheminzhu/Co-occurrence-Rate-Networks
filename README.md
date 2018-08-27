@@ -1,6 +1,6 @@
 # Co-occurrence Rate Networks
 
-*This verision is used only for verifying the experimental results in the paper (Linear co-occurrence rate networks (L-CRNs) for sequence labeling, Zhemin Zhu, Djoerd Hiemstra, Peter Apers, Statistical Language and Speech Processing 2014, Springer. pp. 185-196). A more mature version will come soon. All rights of the datasets belong to their original authors.*
+*This verision is used only for verifying the experimental results in the paper (Linear co-occurrence rate networks (L-CRNs) for sequence labeling, Zhemin Zhu, Djoerd Hiemstra, Peter Apers, Statistical Language and Speech Processing 2014, Springer. pp. 185-196). All rights of the datasets belong to their original authors.*
 
 ### Introduction
 Co-occurrence rate networks are for sequence labeling tasks, such as named entity recognition, part-of-speech tagging … The applications of this software are similar to CRFs (http://crfpp.googlecode.com/svn/trunk/doc/index.html). But CRN can be trained much faster and obtain better or very competitive results.
